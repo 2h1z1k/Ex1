@@ -18,5 +18,4 @@ const quantityArray: QuantityButton[] = [
     },
 ]
 
-
 export default quantityArray
