@@ -1,7 +1,6 @@
 import React from 'react'
 import {Container, Grid } from "@mui/material"
 import "./Main.scss"
-import { useState } from "react"
 import Quantity from "components/Quantity/Quantity"
 import quantityArray from 'components/QuantityArray/QuantityArray'
 
@@ -10,7 +9,6 @@ type QuantityProps ={
     id:number
     count:number
 }
-
 
 type Props = {
 }
